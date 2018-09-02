@@ -1,0 +1,954 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="taotao-portal:war" />
+    </artifacts-to-build>
+  </component>
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/taotao-rest/src/main/resources/properties/resource.properties" line="1" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" readonly="true" id="fc3b0a9c-606b-4ca1-b80f-c83bf178cd35" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/taotao-parent/target/" />
+    <ignored path="$PROJECT_DIR$/taotao-common/target/" />
+    <ignored path="$PROJECT_DIR$/taotao-manager/target/" />
+    <ignored path="$PROJECT_DIR$/taotao-manager/taotao-manage-pojo/target/" />
+    <ignored path="$PROJECT_DIR$/taotao-manage/target/" />
+    <ignored path="$PROJECT_DIR$/taotao-manage/taotao-manage-pojo/target/" />
+    <ignored path="$PROJECT_DIR$/taotao-manage/taotao-manage-dao/target/" />
+    <ignored path="$PROJECT_DIR$/taotao-manager/taotao-manager-pojo/target/" />
+    <ignored path="$PROJECT_DIR$/taotao-manager/taotao-manager-dao/target/" />
+    <ignored path="$PROJECT_DIR$/taotao-manager/taotao-manager-service/target/" />
+    <ignored path="$PROJECT_DIR$/taotao-manager/taotao-manager-web/target/" />
+    <ignored path="$PROJECT_DIR$/taotao-parent/generatorSqlmapCustom/target/" />
+    <ignored path="$PROJECT_DIR$/generatorSqlmapCustom/target/" />
+    <ignored path="$PROJECT_DIR$/generateSqlmap/target/" />
+    <ignored path="$USER_HOME$/Desktop/fastdfs-client-java-master/fastdfs-client-java-master/target/" />
+    <ignored path="$PROJECT_DIR$/taotao-rest/target/" />
+    <ignored path="$PROJECT_DIR$/taotao-portal/target/" />
+    <ignored path="$PROJECT_DIR$/taotao-search/target/" />
+    <ignored path="$PROJECT_DIR$/taotao-sso/target/" />
+    <ignored path="$PROJECT_DIR$/taotao-order/target/" />
+    <ignored path="$PROJECT_DIR$/itcast-springboot/target/" />
+    <ignored path="$PROJECT_DIR$/itcast-parent/target/" />
+    <ignored path="$PROJECT_DIR$/itcast-usermanage/target/" />
+    <ignored path="$PROJECT_DIR$/itcast-parent/asdasd/target/" />
+    <ignored path="$PROJECT_DIR$/taotao-manager/taotao-mapper/target/" />
+    <ignored path="$PROJECT_DIR$/taotao-manager/taotao-pojo/target/" />
+    <ignored path="$PROJECT_DIR$/taotao-manager/taotao-manager-mapper/target/" />
+    <ignored path="$PROJECT_DIR$/itcast-rabbitmq/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/IdeaWorkspaceForMaven$FastDFSClient.ic" NAME="FastDFSClient Coverage Results" MODIFIED="1525334948521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.taotao.fastdfs.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="Jsp File" />
+        <option value="FxmlFile" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>solr</find>
+      <find>SolrServer</find>
+      <find>comm</find>
+      <find>free</find>
+      <find>supp</find>
+      <find>include</find>
+      <find>Confi</find>
+      <find>servlet</find>
+      <find>js</find>
+      <find>common</find>
+      <find>script</find>
+      <find>REgister</find>
+      <find>login()</find>
+      <find>redirectUrl</find>
+      <find>PortalItem</find>
+      <find>href</find>
+      <find>8084</find>
+      <find>购物车</find>
+      <find>/cart/cart</find>
+      <find>删除</find>
+      <find>去结算</find>
+      <find>cartItemNum</find>
+      <find>cart</find>
+      <find>cart.imag</find>
+      <find>提交</find>
+      <find>orderForm</find>
+      <find>送达</find>
+      <find>suppo</find>
+      <find>web</find>
+      <find>selective</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\IdeaWorkspaceForMaven\taotao-portal\src\main\java\com\taotao\portal\service</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/taotao-order/src/main/java/com/taotao/order/service/impl/OrderServiceImpl.java" />
+        <option value="$PROJECT_DIR$/taotao-order/src/main/resources/spring/springmvc.xml" />
+        <option value="$PROJECT_DIR$/taotao-order/src/main/resources/spring/applicationContext-dao.xml" />
+        <option value="$PROJECT_DIR$/taotao-portal/src/main/webapp/WEB-INF/jsp/cart.jsp" />
+        <option value="$PROJECT_DIR$/taotao-portal/src/main/java/com/taotao/portal/pojo/OrderInfo.java" />
+        <option value="$PROJECT_DIR$/taotao-portal/src/main/webapp/WEB-INF/jsp/order-cart.jsp" />
+        <option value="$PROJECT_DIR$/taotao-portal/src/main/resources/spring/springmvc.xml" />
+        <option value="$PROJECT_DIR$/taotao-portal/src/main/java/com/taotao/portal/LoginInterceptor.java" />
+        <option value="$PROJECT_DIR$/taotao-portal/src/main/java/com/taotao/portal/service/OrderService.java" />
+        <option value="$PROJECT_DIR$/taotao-portal/src/main/resources/properties/resource.properties" />
+        <option value="$PROJECT_DIR$/taotao-portal/src/main/java/com/taotao/portal/service/impl/OrderServiceImpl.java" />
+        <option value="$PROJECT_DIR$/taotao-portal/src/main/java/com/taotao/portal/controller/OrderController.java" />
+        <option value="$PROJECT_DIR$/taotao-order/src/main/java/com/taotao/order/controller/OrderController.java" />
+        <option value="$PROJECT_DIR$/taotao-order/pom.xml" />
+        <option value="$PROJECT_DIR$/taotao-order/src/main/java/com/taotao/order/schedule/scheduler1.java" />
+        <option value="$PROJECT_DIR$/taotao-order/src/main/resources/spring/applicationContext-service.xml" />
+        <option value="$PROJECT_DIR$/taotao-portal/src/main/java/com/taotao/portal/controller/CartController.java" />
+        <option value="$PROJECT_DIR$/taotao-portal/src/main/java/com/taotao/portal/service/impl/CartRedisService.java" />
+        <option value="$PROJECT_DIR$/itcast-springboot/src/main/java/cn/itcast/springboot/javaconfig/User.java" />
+        <option value="$PROJECT_DIR$/itcast-springboot/src/main/java/cn/itcast/springboot/javaconfig/UserDao.java" />
+        <option value="$PROJECT_DIR$/itcast-springboot/src/main/java/cn/itcast/springboot/javaconfig/UserService.java" />
+        <option value="$PROJECT_DIR$/itcast-springboot/src/main/java/cn/itcast/springboot/javaconfig/Main.java" />
+        <option value="$PROJECT_DIR$/itcast-springboot/src/main/java/cn/itcast/springboot/javaconfig/SpringConfig.java" />
+        <option value="$PROJECT_DIR$/itcast-springboot/src/main/java/cn/itcast/springboot/demo/HelloApplication.java" />
+        <option value="$PROJECT_DIR$/itcast-springboot/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/itcast-springboot/pom.xml" />
+        <option value="$PROJECT_DIR$/itcast-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/itcast-usermanage/src/main/java/cn/itcast/usermanage/controller/NewUserController.java" />
+        <option value="$PROJECT_DIR$/itcast-usermanage/src/main/resources/spring/applicationContext-mybatis.xml" />
+        <option value="$PROJECT_DIR$/itcast-usermanage/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/itcast-usermanage/src/main/resources/log4j.properties" />
+        <option value="$PROJECT_DIR$/itcast-usermanage/src/main/java/cn/itcast/usermanage/service/UserService.java" />
+        <option value="$PROJECT_DIR$/itcast-usermanage/src/main/java/cn/itcast/usermanage/mapper/UserMapper.java" />
+        <option value="$PROJECT_DIR$/itcast-usermanage/src/main/java/cn/itcast/usermanage/pojo/User.java" />
+        <option value="$PROJECT_DIR$/itcast-usermanage/pom.xml" />
+        <option value="$PROJECT_DIR$/itcast-usermanage/src/main/resources/jdbc.properties" />
+        <option value="$PROJECT_DIR$/taotao-manager/pom.xml" />
+        <option value="$PROJECT_DIR$/itcast-rabbitmq/src/main/java/cn/itcast/rabbitmq/util/ConnectionUtil.java" />
+        <option value="$PROJECT_DIR$/itcast-rabbitmq/src/main/java/cn/itcast/rabbitmq/simple/Send.java" />
+        <option value="$PROJECT_DIR$/itcast-rabbitmq/src/main/java/cn/itcast/rabbitmq/simple/Recv.java" />
+        <option value="$PROJECT_DIR$/itcast-rabbitmq/src/main/java/cn/itcast/rabbitmq/work/Send.java" />
+        <option value="$PROJECT_DIR$/itcast-rabbitmq/src/main/java/cn/itcast/rabbitmq/work/Recv.java" />
+        <option value="$PROJECT_DIR$/itcast-rabbitmq/src/main/java/cn/itcast/rabbitmq/work/Recv2.java" />
+        <option value="$PROJECT_DIR$/itcast-rabbitmq/src/main/java/cn/itcast/rabbitmq/ps/Send.java" />
+        <option value="$PROJECT_DIR$/itcast-rabbitmq/src/main/java/cn/itcast/rabbitmq/routing/Recv.java" />
+        <option value="$PROJECT_DIR$/itcast-rabbitmq/src/main/java/cn/itcast/rabbitmq/routing/Recv2.java" />
+        <option value="$PROJECT_DIR$/itcast-rabbitmq/src/main/java/cn/itcast/rabbitmq/routing/Send.java" />
+        <option value="$PROJECT_DIR$/itcast-rabbitmq/src/main/java/cn/itcast/rabbitmq/topic/Recv2.java" />
+        <option value="$PROJECT_DIR$/itcast-rabbitmq/src/main/java/cn/itcast/rabbitmq/topic/Send.java" />
+        <option value="$PROJECT_DIR$/itcast-rabbitmq/src/main/resources/spring/rabbitmq-context.xml" />
+        <option value="$PROJECT_DIR$/itcast-rabbitmq/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:/apache-maven-3.5.3" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="dedicatedModuleDir" value="C:\Users\cloudwi\Desktop\fastdfs-client-java-master" />
+        <option name="importAutomatically" value="true" />
+        <option name="lookForNested" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="itcast-parent" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="220" />
+    <option name="y" value="68" />
+    <option name="width" value="1420" />
+    <option name="height" value="909" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="IdeaWorkspaceForMaven" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itcast-rabbitmq" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IdeaWorkspaceForMaven" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itcast-rabbitmq" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IdeaWorkspaceForMaven" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itcast-rabbitmq" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IdeaWorkspaceForMaven" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itcast-rabbitmq" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IdeaWorkspaceForMaven" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itcast-rabbitmq" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="rabbitmq" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IdeaWorkspaceForMaven" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itcast-rabbitmq" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="rabbitmq" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IdeaWorkspaceForMaven" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itcast-rabbitmq" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IdeaWorkspaceForMaven" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itcast-rabbitmq" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="C:/Program Files/VisualSVN Server/bin/_client.pyd" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\IdeaWorkspaceForMaven\itcast-rabbitmq" />
+      <recent name="C:\IdeaWorkspaceForMaven\taotao-manager\taotao-manager-service" />
+      <recent name="C:\IdeaWorkspaceForMaven\taotao-manager\taotao-manager-web" />
+      <recent name="C:\IdeaWorkspaceForMaven\taotao-manager\taotao-pojo" />
+      <recent name="C:\IdeaWorkspaceForMaven\taotao-manager\taotao-mapper" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.taotao.portal.pojo" />
+      <recent name="com.taotao.controller.utils" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\IdeaWorkspaceForMaven\taotao-order\src\main\resources" />
+      <recent name="C:\IdeaWorkspaceForMaven\taotao-sso\src\main\webapp\WEB-INF" />
+      <recent name="C:\IdeaWorkspaceForMaven\taotao-sso\src\main\webapp\WEB-INF\jsp" />
+      <recent name="C:\IdeaWorkspaceForMaven\taotao-portal\src\main\webapp\WEB-INF\ftl\commons" />
+      <recent name="C:\IdeaWorkspaceForMaven\taotao-portal\src\main\webapp" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.SpringMain">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+    </configuration>
+    <configuration name="Recv" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.rabbitmq.topic.Recv" />
+      <module name="itcast-rabbitmq" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.itcast.rabbitmq.topic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Recv2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.rabbitmq.topic.Recv2" />
+      <module name="itcast-rabbitmq" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.itcast.rabbitmq.topic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Send (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.rabbitmq.topic.Send" />
+      <module name="itcast-rabbitmq" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.itcast.rabbitmq.topic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Send" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.rabbitmq.routing.Send" />
+      <module name="itcast-rabbitmq" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.itcast.rabbitmq.routing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="SpringMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.rabbitmq.spring.SpringMain" />
+      <module name="itcast-rabbitmq" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.itcast.rabbitmq.spring.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="generator" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="mybatis-generator:generate" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/generatorSqlmapCustom" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+    </configuration>
+    <configuration name="HelloApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="itcast-springboot" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.itcast.springboot.demo.HelloApplication" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="tomcat" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.61" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="taotao-portal:war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_IdeaWorkspaceForMaven" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="14639" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="JProfiler">
+        <option name="jreHome" value="$PROJECT_DIR$/../Program Files/Java/jdk1.8.0_144" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="JProfiler">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="taotao-portal:war" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Maven.generator" />
+      <item itemvalue="Tomcat Server.tomcat" />
+      <item itemvalue="Spring Boot.HelloApplication" />
+      <item itemvalue="Application.Send" />
+      <item itemvalue="Application.Send (1)" />
+      <item itemvalue="Application.Recv" />
+      <item itemvalue="Application.Recv2 (1)" />
+      <item itemvalue="Application.SpringMain" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SpringMain" />
+        <item itemvalue="Application.Send (1)" />
+        <item itemvalue="Application.Recv2 (1)" />
+        <item itemvalue="Application.Recv" />
+        <item itemvalue="Application.Send" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\cloudwi\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fc3b0a9c-606b-4ca1-b80f-c83bf178cd35" name="Default" comment="" />
+      <created>1524397975071</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1524397975071</updated>
+      <workItem from="1524397978406" duration="1076000" />
+      <workItem from="1524399081774" duration="5815000" />
+      <workItem from="1524405674320" duration="1524000" />
+      <workItem from="1524448229902" duration="5199000" />
+      <workItem from="1524453934719" duration="10353000" />
+      <workItem from="1524476365701" duration="8234000" />
+      <workItem from="1524546625472" duration="5578000" />
+      <workItem from="1524619814197" duration="19000" />
+      <workItem from="1524660285138" duration="4236000" />
+      <workItem from="1524707931708" duration="21000" />
+      <workItem from="1524708020957" duration="20000" />
+      <workItem from="1524813242154" duration="2871000" />
+      <workItem from="1524818845157" duration="8388000" />
+      <workItem from="1524835158781" duration="4330000" />
+      <workItem from="1524880428814" duration="6823000" />
+      <workItem from="1524921245093" duration="3360000" />
+      <workItem from="1524966216755" duration="4021000" />
+      <workItem from="1524970269597" duration="2337000" />
+      <workItem from="1525328817055" duration="21577000" />
+      <workItem from="1525400481523" duration="29477000" />
+      <workItem from="1525489132797" duration="10309000" />
+      <workItem from="1525505981164" duration="70000" />
+      <workItem from="1525506144530" duration="539000" />
+      <workItem from="1525506715833" duration="5771000" />
+      <workItem from="1525522965892" duration="10472000" />
+      <workItem from="1525580532709" duration="21901000" />
+      <workItem from="1525609153464" duration="3538000" />
+      <workItem from="1525612719939" duration="4520000" />
+      <workItem from="1525658665407" duration="18056000" />
+      <workItem from="1525746381828" duration="6721000" />
+      <workItem from="1525760080419" duration="8294000" />
+      <workItem from="1525786188511" duration="1912000" />
+      <workItem from="1525831161634" duration="16876000" />
+      <workItem from="1525855777202" duration="1817000" />
+      <workItem from="1525867360258" duration="6360000" />
+      <workItem from="1525873877405" duration="2663000" />
+      <workItem from="1525917529619" duration="9101000" />
+      <workItem from="1526002512989" duration="18091000" />
+      <workItem from="1526122228051" duration="12132000" />
+      <workItem from="1526182175129" duration="18878000" />
+      <workItem from="1526209924433" duration="10614000" />
+      <workItem from="1526263814350" duration="21820000" />
+      <workItem from="1526294188679" duration="8183000" />
+      <workItem from="1526349084195" duration="5674000" />
+      <workItem from="1526358706429" duration="2157000" />
+      <workItem from="1526360891577" duration="3876000" />
+      <workItem from="1526366379201" duration="50000" />
+      <workItem from="1526366455566" duration="1061000" />
+      <workItem from="1526367541017" duration="946000" />
+      <workItem from="1526368514704" duration="104000" />
+      <workItem from="1526368642323" duration="3225000" />
+      <workItem from="1526393619514" duration="660000" />
+      <workItem from="1526457648027" duration="3032000" />
+      <workItem from="1526524168314" duration="2586000" />
+      <workItem from="1526540810686" duration="18469000" />
+      <workItem from="1526606525672" duration="1821000" />
+      <workItem from="1526608482192" duration="248000" />
+      <workItem from="1526609071983" duration="758000" />
+      <workItem from="1526609852746" duration="240000" />
+      <workItem from="1526610370000" duration="1377000" />
+      <workItem from="1526611775675" duration="672000" />
+      <workItem from="1526612473373" duration="545000" />
+      <workItem from="1526613059917" duration="2312000" />
+      <workItem from="1526620999254" duration="1071000" />
+      <workItem from="1526622120374" duration="124000" />
+      <workItem from="1526622269777" duration="8131000" />
+      <workItem from="1535867952903" duration="1096000" />
+    </task>
+    <task id="LOCAL-00001">
+      <created>1526610988119</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1526610988119</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="FreeMarkertest_testFreemarker - 2018.05.12 at 21h 58m 50s.xml">
+      <configuration name="FreeMarkertest.testFreemarker" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JedisTest_testJedisPool - 2018.05.13 at 14h 24m 56s.xml">
+      <configuration name="JedisTest.testJedisPool" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JedisTest_testJedisPool - 2018.05.13 at 21h 19m 29s.xml">
+      <configuration name="JedisTest.testJedisPool" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JedisTest_testJedisPool - 2018.05.13 at 21h 25m 04s.xml">
+      <configuration name="JedisTest.testJedisPool" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JedisTest_testJedisPool - 2018.05.13 at 22h 00m 23s.xml">
+      <configuration name="JedisTest.testJedisPool" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JedisTest_testJedisPool - 2018.05.13 at 22h 02m 02s.xml">
+      <configuration name="JedisTest.testJedisPool" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JedisTest_testJedisPool - 2018.05.14 at 10h 52m 04s.xml">
+      <configuration name="JedisTest.testJedisPool" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JedisTest_testJedisPool - 2018.05.14 at 11h 13m 58s.xml">
+      <configuration name="JedisTest.testJedisPool" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JedisTest_testJedisPool - 2018.05.14 at 14h 26m 36s.xml">
+      <configuration name="JedisTest.testJedisPool" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SolrJTest_testSolrJ - 2018.05.14 at 14h 31m 35s.xml">
+      <configuration name="SolrJTest.testSolrJ" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="404132000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="220" y="68" width="1420" height="909" extended-state="0" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50064516" side_tool="true" weight="0.33875" />
+      <window_info anchor="bottom" id="Application Servers" order="12" weight="0.328877" />
+      <window_info anchor="right" id="Maven Projects" order="4" sideWeight="0.49888888" weight="0.12720588" />
+      <window_info anchor="bottom" id="Database Changes" order="0" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info anchor="right" id="Database" order="5" weight="0.0282516" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.35080644" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info id="Image Layers" order="5" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.8567742" weight="0.16666667" />
+      <window_info anchor="bottom" id="Spring" order="13" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32797858" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.9205527" visible="true" weight="0.19117647" />
+      <window_info id="Web" order="7" sideWeight="0.07944732" side_tool="true" weight="0.28515318" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+      <window_info anchor="bottom" id="Thumbnails" order="15" sideWeight="0.49935484" weight="0.34076017" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="9" sideWeight="0.49419355" weight="0.43682796" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="JProfiler" order="15" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="2" sideWeight="0.4978678" weight="0.33455434" />
+      <window_info anchor="right" id="Coverage" order="9" sideWeight="0.5011111" side_tool="true" visible="true" weight="0.035181236" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$USER_HOME$/Desktop/fastdfs-client-java-master/fastdfs-client-java-master/src/main/java/org/csource/common/NameValuePair.java</url>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="10" />
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.1.3.RELEASE/spring-web-4.1.3.RELEASE.jar!/org/springframework/http/HttpStatus.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="35" column="4" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itcast-usermanage/src/main/java/cn/itcast/usermanage/bean/EasyUIResult.java" />
+    <entry file="file://$PROJECT_DIR$/generateSqlmap/src/main/resources/generatorConfig.xml" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.1.3.RELEASE/spring-web-4.1.3.RELEASE.jar!/org/springframework/web/filter/HttpPutFormContentFilter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itcast-usermanage/src/main/webapp/WEB-INF/web.xml" />
+    <entry file="file://$PROJECT_DIR$/itcast-usermanage/src/main/resources/log4j.properties" />
+    <entry file="file://$PROJECT_DIR$/itcast-usermanage/src/main/resources/spring/applicationContext-transaction.xml" />
+    <entry file="file://$PROJECT_DIR$/taotao-manager/taotao-manager-dao/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/itcast-usermanage/src/main/java/cn/itcast/usermanage/mapper/UserMapper.java" />
+    <entry file="file://$PROJECT_DIR$/itcast-usermanage/src/main/java/cn/itcast/usermanage/pojo/User.java" />
+    <entry file="file://$PROJECT_DIR$/itcast-usermanage/src/main/resources/spring/itcast-usermanage-servlet.xml" />
+    <entry file="file://$PROJECT_DIR$/itcast-usermanage/src/main/webapp/WEB-INF/views/users.jsp" />
+    <entry file="file://$PROJECT_DIR$/taotao-manager/taotao-manager-dao/src/main/java/com/taotao/mapper/TbContentCategoryMapper.xml" />
+    <entry file="file://$PROJECT_DIR$/itcast-usermanage/src/main/java/cn/itcast/usermanage/controller/PageController.java" />
+    <entry file="file://$PROJECT_DIR$/itcast-usermanage/src/main/java/cn/itcast/usermanage/controller/UserController.java" />
+    <entry file="file://$PROJECT_DIR$/itcast-usermanage/src/main/java/cn/itcast/usermanage/service/UserService.java" />
+    <entry file="file://$PROJECT_DIR$/pom.xml" />
+    <entry file="jar://$MAVEN_REPOSITORY$/com/github/abel533/mapper/2.3.4/mapper-2.3.4.jar!/com/github/abel533/mapper/Mapper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="534">
+          <caret line="97" column="2" selection-start-line="97" selection-start-column="2" selection-end-line="97" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itcast-usermanage/src/main/java/cn/itcast/usermanage/controller/NewUserController.java" />
+    <entry file="file://$PROJECT_DIR$/itcast-parent/asdasd/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/itcast-usermanage/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/itcast-usermanage/src/main/resources/mybatis/mybatis-config.xml" />
+    <entry file="file://$PROJECT_DIR$/itcast-usermanage/src/main/resources/jdbc.properties" />
+    <entry file="file://$PROJECT_DIR$/taotao-portal/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1834" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taotao-portal/taotao-manager-web/src/main/java/com/taotao/controller/ContentCategoryController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-196" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taotao-manager/taotao-pojo/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/taotao-manager/taotao-pojo/src/main/java/com/taotao/pojo/TbContent.java" />
+    <entry file="file://$PROJECT_DIR$/taotao-manager/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="17" column="45" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taotao-manager/taotao-mapper/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/taotao-manager/taotao-manager-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itcast-parent/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/taotao-manager/taotao-manager-web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="8" column="47" lean-forward="true" selection-start-line="8" selection-start-column="47" selection-end-line="8" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itcast-rabbitmq/src/main/java/cn/itcast/rabbitmq/util/ConnectionUtil.java" />
+    <entry file="file://$PROJECT_DIR$/itcast-rabbitmq/src/main/java/cn/itcast/rabbitmq/simple/Recv.java" />
+    <entry file="file://$PROJECT_DIR$/itcast-rabbitmq/src/main/java/cn/itcast/rabbitmq/simple/Send.java" />
+    <entry file="file://$PROJECT_DIR$/itcast-rabbitmq/src/main/java/cn/itcast/rabbitmq/work/Send.java" />
+    <entry file="file://$PROJECT_DIR$/itcast-rabbitmq/src/main/java/cn/itcast/rabbitmq/work/Recv2.java" />
+    <entry file="file://$PROJECT_DIR$/itcast-rabbitmq/src/main/java/cn/itcast/rabbitmq/work/Recv.java" />
+    <entry file="file://$PROJECT_DIR$/itcast-rabbitmq/src/main/java/cn/itcast/rabbitmq/ps/Recv.java" />
+    <entry file="file://$PROJECT_DIR$/itcast-rabbitmq/src/main/java/cn/itcast/rabbitmq/ps/Send.java" />
+    <entry file="file://$PROJECT_DIR$/itcast-rabbitmq/src/main/java/cn/itcast/rabbitmq/ps/Recv2.java" />
+    <entry file="file://$PROJECT_DIR$/itcast-rabbitmq/src/main/java/cn/itcast/rabbitmq/routing/Recv.java" />
+    <entry file="file://$PROJECT_DIR$/itcast-rabbitmq/src/main/java/cn/itcast/rabbitmq/routing/Recv2.java" />
+    <entry file="file://$PROJECT_DIR$/itcast-rabbitmq/src/main/java/cn/itcast/rabbitmq/routing/Send.java" />
+    <entry file="file://$PROJECT_DIR$/itcast-rabbitmq/src/main/java/cn/itcast/rabbitmq/topic/Recv.java" />
+    <entry file="file://$PROJECT_DIR$/itcast-rabbitmq/src/main/java/cn/itcast/rabbitmq/topic/Recv2.java" />
+    <entry file="file://$PROJECT_DIR$/itcast-rabbitmq/src/main/java/cn/itcast/rabbitmq/topic/Send.java" />
+    <entry file="file://$PROJECT_DIR$/itcast-rabbitmq/src/main/java/cn/itcast/rabbitmq/spring/Foo.java" />
+    <entry file="file://$PROJECT_DIR$/itcast-rabbitmq/src/main/java/cn/itcast/rabbitmq/spring/SpringMain.java" />
+    <entry file="file://$PROJECT_DIR$/itcast-rabbitmq/src/main/resources/spring/rabbitmq-context.xml" />
+    <entry file="file://$PROJECT_DIR$/itcast-rabbitmq/pom.xml" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>taotao-manager-web:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>taotao-manager-service</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: aopalliance:aopalliance:1.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
